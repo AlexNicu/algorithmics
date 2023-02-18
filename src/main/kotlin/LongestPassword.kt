@@ -26,7 +26,7 @@ fun solution2(S: String): Int {
 }
 
 
-/*
+/* Finished in 1h 12 minutes
 You would like to set a password for a bank account. However, there are three restrictions on the format of the password:
 
         it has to contain only alphanumerical characters (a−z, A−Z, 0−9);
